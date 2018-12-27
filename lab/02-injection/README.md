@@ -36,6 +36,15 @@
 * Firefox
 * Burp Suite
 
+## Kịch bản tấn công vơi SQL Injection
+### Kịch bản tấn công
+* Attacker sẽ injection các câu lệnh sql url
+* Đối với test case này thì chúng ta chỉ cần test xem hệ thống có bị lỗi SQL Injection
+```
+Thêm 1'
+```
+### Tài liệu tham khảo
+* Demo lỗi SQL Injection: https://sangbui.com/blind-sql-injection-at-testphp-vulnweb-com/
 
 ## Cách phòng chống
 * Với lỗi Injection này thì chúng ta cần validate ở cả 2 phía: Client và Server
