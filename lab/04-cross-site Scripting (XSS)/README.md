@@ -20,3 +20,7 @@
 
 ## Cách phòng chống
 * Chúng ta hãy filter các dữ liệu được gửi lên từ Client
+
+## Tài liệu tham khảo
+* Một số ký tự đặc biệt: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/XSS%20injection/Intruders/xss_payloads_quick.txt
+* Một kịch bản tần công: https://pentest-tools.com/blog/xss-attacks-practical-scenarios/
