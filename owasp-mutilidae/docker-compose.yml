@@ -9,7 +9,6 @@ services:
     env_file: .env
     volumes:
       - ./nginx/conf.d:/etc/nginx/conf.d
-      - /var/log/nginx-docker:/var/log/nginx
     links:
       - php
     volumes_from:
