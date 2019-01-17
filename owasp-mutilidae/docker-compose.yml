@@ -41,7 +41,7 @@ services:
     image: php:7.0-fpm
     container_name: "app-data-owasp"
     volumes:
-      - ./mutillidae-2.6.67:/var/www/html
+      - ./mutillidae-2.6.68:/var/www/html
     command: "true"
   
   # mysql data
