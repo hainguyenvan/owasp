@@ -1,6 +1,18 @@
 ## OWAPS
 | Tìm hiểu về OWAPS
 
+### Nội dung tìm hiểu
+* A1:2017-Injection
+* A2:2017-Broken Authentication
+* A3:2017-Sensitive Data Exposure
+* A4:2017-XML External Entities(XXE)
+* A5:2017-Broken Access Control
+* A6:2017-Security Misconfiguration
+* A7:2017-Cross-Site Scripting (XSS)
+* A8:2017-Insecure Desrialization
+* A9:2017-Using Components with Known Vulnerabilities
+* A10:2017-Insufficient Logging&Monitoring
+* A8:2013-Cross-Site Request Forgery (CSRF)
 
 ## Một số trang web thực hành
 * http://www.slavehack.com/
